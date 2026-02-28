@@ -1,4 +1,4 @@
-# Pedido de Compras
+# Pedido de Compra
 ### Pega Constellation - Infinity Version 25.1.2
 
 Esta apresentação demonstra o fluxo completo do Pedido de Compra, desde a criação até a aprovação e conclusão do processo.

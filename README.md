@@ -9,7 +9,7 @@ Esta apresentação demonstra o fluxo completo do Pedido de Compra, desde a cria
 - Aplica **regras de negócio** para aprovação automática ou gerencial.
 - Controla **status**, **valores** e **justificativas** do pedido.
 
-## Case Type – Pedido de Compras
+## Case Type – Pedido de Compra
 
 ![alt text](image.png)
 

@@ -16,22 +16,22 @@ Esta apresentação demonstra o fluxo completo do Pedido de Compra, desde a cria
 ## Flows
 
 #### Criação
-![alt text](image-1.png)
+<img alt="" src="image-1.png" height="50"/>
 
 #### Validação
-![alt text](image-2.png)
+<img alt="" src="image-2.png" height="120"/>
 
 #### Aprovação
-![alt text](image-3.png)
+<img alt="" src="image-3.png" height="70"/>
 
 #### Approval Rejection
-![alt text](image-4.png)
+<img alt="" src="image-4.png" height="50"/>
 
 #### Entrega
-![alt text](image-5.png)
+<img alt="" src="image-5.png" height="50"/>
 
 #### Encerramento
-![alt text](image-6.png)
+<img alt="" src="image-6.png" height="50"/>
 
 ## Data Page – Itens de Pedido
 - Utiliza uma **propriedade Query** para recuperar os itens salvos em registro.
